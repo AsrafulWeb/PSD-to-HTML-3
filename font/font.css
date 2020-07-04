@@ -1,0 +1,12 @@
+@font-face{
+	font-family:"Montserrat";
+	src: url( "../font/Montserrat-Regular.ttf" );
+}
+@font-face{
+	font-family:"Montserrat_light";
+	src: url("../font/Montserrat-light.otf");
+}
+@font-face{
+	font-family:"gooddc";
+	src:url( "../font/gooddc.ttf" ) format("truetype");
+}
